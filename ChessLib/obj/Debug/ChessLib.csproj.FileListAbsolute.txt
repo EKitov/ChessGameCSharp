@@ -1,0 +1,6 @@
+C:\Users\Merkyry12\source\repos\ChessLib\bin\Debug\ChessLib.dll
+C:\Users\Merkyry12\source\repos\ChessLib\bin\Debug\ChessLib.pdb
+C:\Users\Merkyry12\source\repos\ChessLib\obj\Debug\ChessLib.csproj.AssemblyReference.cache
+C:\Users\Merkyry12\source\repos\ChessLib\obj\Debug\ChessLib.csproj.CoreCompileInputs.cache
+C:\Users\Merkyry12\source\repos\ChessLib\obj\Debug\ChessLib.dll
+C:\Users\Merkyry12\source\repos\ChessLib\obj\Debug\ChessLib.pdb
