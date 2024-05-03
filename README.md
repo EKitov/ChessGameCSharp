@@ -1,7 +1,7 @@
 # ChessLibraryCSharp
 Использование библиотеки на примере одиночной шахматной игры:
 
-
+```
 static void Main(string[] args)
         {
             Chess chess = new Chess();
@@ -44,3 +44,4 @@ static void Main(string[] args)
                 chess = chess.Move(move);
             }
         }
+```
